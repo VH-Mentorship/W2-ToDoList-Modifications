@@ -1,4 +1,4 @@
-# W2-ToDoList-Upgrade
+# VH Mentorship Workshop 2 Take-Home #2: To-Do-List Upgrade
 
 ## Instructions
 
