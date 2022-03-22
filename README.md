@@ -10,7 +10,7 @@ During the workshop, you learned a bit about what a React component is. Our firs
 
 ## Challenge 2
 
-Currently, the app does not include a way for users to filter tasks by their priority and / or date. Design a component that allows the user to quickly search for tasks according to their query (e.g. if they only want to see tasks with high priority, show them that).
+Currently, the app does not include a way for users to assign a priority value to tasks. Using the qualifiers "High", "Medium", and "Low," create a drop-down menu that allows users to associate a task with its given priority level. In addition, design a component that allows the user to quickly search for tasks according to their query (e.g. if they only want to see tasks with high priority, show them that).
 
 ## Final Notes
 
