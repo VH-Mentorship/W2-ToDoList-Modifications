@@ -1,4 +1,4 @@
-# W2-TH-To-Do-List-Modifications
+# W2-ToDoList-Modifications
 
 ## Instructions
 
