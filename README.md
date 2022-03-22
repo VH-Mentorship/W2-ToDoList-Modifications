@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Your goal for this take-home assignment is to further build upon the to-do list template presented in the workshop. Our goal is for you to come out of this workshop series with a tangible portfolio-ready project and a deeper understanding of front-end technologies. This is one of your chances to do so! As always, feel free to play around with the HTML, CSS, & JS source code to personalize the app.
+Your goal for this take-home assignment is to expand on the to-do list template presented in the workshop. Our goal is for you to come out of this workshop series with a tangible portfolio-ready project and a deeper understanding of front-end technologies. This is one of your chances to do so! As always, feel free to play around with the HTML, CSS, & JS source code to personalize the app.
 
 ## Challenge 1
 
